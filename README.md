@@ -1,2 +1,2 @@
 # nn-compression-simple
-a simple NN compression tools using ADMM
+a simple NN compression tool using ADMM
